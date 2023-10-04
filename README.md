@@ -9,7 +9,7 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/PFA-Hotel/Booking.git
+$ git clone https://github.com/Soufiane-Majdar/HOTEL-MANAGEMENT-Booking.git
 $ cd Booking
 $
 $ # Virtualenv modules installation (Linux)
